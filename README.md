@@ -14,3 +14,5 @@ The Model Achieved Training Accuracy Over 85% and Validation Accuracy Over 80%.H
 ### Original Ground Truth
 
 ![Results](Images/Original_Mask.png)
+
+The Segmentation MAsks for Various Crop Categories Are Rendered using CDL Values 
