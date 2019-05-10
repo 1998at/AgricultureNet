@@ -4,4 +4,5 @@ AGricultureNet is A Highly Customised Segmentation Model that takes in Input dat
 
 ## Modifications Made In The Standard Model
 Used AN Upward Path With Skip Connections Along With Spatial Excitation 
+![Results](Images/Modifications.jpg)
 
